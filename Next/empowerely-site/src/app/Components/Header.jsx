@@ -4,7 +4,7 @@ function Header () {
     return (
         <header className="header">
             <h1>Empowerely</h1>
-            <img src="/logo.png" alt="Empowerely Logo" className="logo" />
+            <img src="../../public/mini Empowerely" alt="Empowerely Logo" className="logo" />
             <Nav />
         </header>
     )
