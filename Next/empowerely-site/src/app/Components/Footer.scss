@@ -1,0 +1,14 @@
+$color-text: #6c757d;
+$color-background: #f8f9fa;
+$font-size-p: 14px;
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: $color-background;
+    border-top: 1px solid #e7e7e7;
+    margin-top: 40px;
+         p {
+        color: $color-text;
+        font-size: $font-size-p;    
+         }
+}
