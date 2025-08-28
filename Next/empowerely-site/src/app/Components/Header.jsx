@@ -1,6 +1,6 @@
 import Nav from './Nav'
 
-function Header () {
+function Header (props) {
     return (
         <header className="header">
             <h1>Empowerely</h1>
